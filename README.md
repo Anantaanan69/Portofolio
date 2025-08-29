@@ -8,9 +8,10 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 ## 🚀 Daftar Portofolio  
 
 ### 📊 Data Analytics & Data Science
-- **[📂 Nama Project 1](#)**  
-  Deskripsi singkat project, tools yang digunakan, dan insight yang diperoleh.  
-  _Tech Stack: Python, Pandas, Matplotlib, SQL_
+- **[📂 Pizza Sales Analysis](https://drive.google.com/drive/folders/1okIZYHq9AMXodHtb1GQhTRXVkNU_FAIi?usp=sharing)**  
+  Melakukan analisis data penjualan pizza untuk mengidentifikasi tren penjualan, pola pembelian pelanggan, dan kontribusi produk terhadap total revenue.  
+  Data diolah menggunakan **Excel** untuk eksplorasi awal dan pembersihan data, kemudian divisualisasikan dalam bentuk **dashboard interaktif di Tableau** untuk memberikan insight terkait menu terlaris, waktu dengan penjualan tertinggi, serta performa kategori produk.  
+  _Tech Stack: Excel, Tableau_
 
 - **[📂 Nama Project 2](#)**  
   Deskripsi singkat project.  
