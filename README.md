@@ -9,32 +9,30 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 
 ### 📊 Data Analytics & Data Science
 - **[📂 Pizza Sales Analysis](https://drive.google.com/drive/folders/1okIZYHq9AMXodHtb1GQhTRXVkNU_FAIi?usp=sharing)**  
-  Melakukan analisis data penjualan pizza untuk mengidentifikasi tren penjualan, pola pembelian pelanggan, dan kontribusi produk terhadap total revenue.
+  Proyek ini berfokus pada analisis data penjualan pizza untuk memahami **pola pembelian pelanggan, kontribusi tiap produk terhadap revenue, serta tren penjualan berdasarkan kategori dan waktu**.  
+   
+  Langkah-langkah yang dilakukan:  
+  - **Data Preparation & Cleaning:** Mengolah dataset menggunakan **Excel** untuk memastikan konsistensi data, mengatasi missing values, dan menyiapkan format analisis.  
+  - **Exploratory Data Analysis (EDA):** Mengidentifikasi menu terlaris, kategori yang berkontribusi besar pada penjualan, serta periode (hari & bulan) dengan transaksi tertinggi.  
+  - **Dashboard Development:** Membuat **dashboard interaktif di Tableau** yang menyajikan visualisasi penjualan berdasarkan menu, ukuran pizza, kategori produk, serta tren revenue harian dan bulanan.  
 
-  Data diolah menggunakan **Excel** untuk eksplorasi awal dan pembersihan data, kemudian divisualisasikan dalam bentuk **dashboard interaktif di Tableau** untuk memberikan insight terkait menu terlaris, waktu dengan penjualan tertinggi, serta performa kategori produk.
-  
-  _Tech Stack: Excel, Tableau_
+  Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.  
+   
+  **Tech Stack:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>  
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
 
-- **[📂 Nama Project 2](#)**  
+- **[📂 New York City Properties Sales](https://drive.google.com/drive/folders/1DSRZQWuFlyLMpOipuM9_L6EJxnbseYqo?usp=sharing)**  
   Deskripsi singkat project.  
   _Tech Stack: Google BigQuery, Tableau, Excel_  
 
 ---
 
 ### 💻 Web Development
-- **[🌐 Nama Website 1](#)**  
-  Website berbasis PHP untuk manajemen stok barang dengan fitur laporan masuk, keluar, dan peramalan kebutuhan.  
+- **[🌐 Web Djojo Plastik](#)**  
+  Website berbasis PHP untuk manajemen stok barang dengan fitur laporan masuk, keluar, dan peramalan kebutuhan.
+  
   _Tech Stack: PHP, MySQL, HTML, CSS, JavaScript_
-
-- **[🌐 Nama Website 2](#)**  
-  Deskripsi singkat project.  
-  _Tech Stack: React.js, Tailwind CSS_  
-
----
-
-### 🎵 Creative Works
-- **[🎶 Koma Band](#)**  
-  Dokumentasi perjalanan musik saya bersama **Koma Band**, termasuk logo, jadwal perform, dan karya.  
 
 ---
 
