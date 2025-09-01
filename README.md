@@ -19,8 +19,8 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.  
    
     **Tech Stack:**  
-  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 - **[📂 New York City Properties Sales](https://drive.google.com/drive/folders/1DSRZQWuFlyLMpOipuM9_L6EJxnbseYqo?usp=sharing)**  
   Deskripsi singkat project.  
