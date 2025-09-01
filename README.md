@@ -63,7 +63,7 @@ Berikut teknologi yang biasa saya gunakan dalam project:
 Jika ingin berdiskusi atau berkolaborasi, silakan hubungi saya melalui:  
 
 - 📧 Email: **anantaanan69@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/yusuf-ananta](#)  
+- 💼 LinkedIn: [Yusuf Ananta Tirtodjojo](www.linkedin.com/in/yusuf-ananta-tirtodjojo)  
 
 ---
 
