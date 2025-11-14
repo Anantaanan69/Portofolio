@@ -22,7 +22,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-- **[📂 New York City Properties Sales]([https://drive.google.com/drive/folders/1DSRZQWuFlyLMpOipuM9_L6EJxnbseYqo?usp=sharing](https://drive.google.com/drive/folders/1_rW7uSS5p66uKHOTk6njhi8sKKOGlt4Y?usp=sharing))**  
+- **[📂 New York City Properties Sales](https://drive.google.com/drive/folders/1_rW7uSS5p66uKHOTk6njhi8sKKOGlt4Y?usp=sharing)**  
   Proyek ini berfokus pada analisis data penjualan properti di New York City untuk memahami tren penjualan, faktor yang memengaruhi nilai transaksi, serta performa penjualan khususnya di Borough 1. Analisis ini diarahkan untuk mendukung tujuan bisnis yaitu meningkatkan penjualan properti di NYC sebesar 10% dalam 1 tahun ke depan.
    
   Langkah-langkah yang dilakukan:  
@@ -31,7 +31,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   - **Dashboard Development:** Mengembangkan dashboard interaktif di Looker Studio yang menampilkan visualisasi tren penjualan, revenue, tipe properti dengan performa terbaik, serta perbandingan transaksi Neigborhood dan juga Building Class Category.
   Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.  
    
-    **Tech Stack:**  
+    **Tech Stack:**
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![LookerStudio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
