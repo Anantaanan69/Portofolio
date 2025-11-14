@@ -32,6 +32,11 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   - **Dashboard Development:** Mengembangkan dashboard interaktif di Looker Studio yang menampilkan visualisasi tren penjualan, revenue, tipe properti dengan performa terbaik, serta perbandingan transaksi Neigborhood dan juga Building Class Category.
   Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.
 
+  Insight utama dari analisis ini meliputi:
+  - Identifikasi properti dan kategori yang memiliki nilai transaksi tertinggi di Borough 1. 
+  - Analisis periode waktu dengan performa penjualan paling kuat dan paling lemah, termasuk pola musiman dan tren historis.
+  - Rekomendasi strategi peningkatan penjualan, seperti menargetkan kategori properti bernilai tinggi, penguatan pemasaran pada bulan dengan volume rendah, serta fokus pada faktor-faktor yang paling memengaruhi keputusan pembeli.  
+
 **Tech Stack:**
     
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
