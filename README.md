@@ -24,7 +24,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 - **[📂 New York City Properties Sales](https://drive.google.com/drive/folders/1_rW7uSS5p66uKHOTk6njhi8sKKOGlt4Y?usp=sharing)**  
-  Proyek ini berfokus pada analisis data penjualan properti di New York City untuk memahami tren penjualan, faktor yang memengaruhi nilai transaksi, serta performa penjualan khususnya di Borough 1. Analisis ini diarahkan untuk mendukung tujuan bisnis yaitu meningkatkan penjualan properti di NYC sebesar 10% dalam 1 tahun ke depan.
+  Proyek ini berfokus pada analisis data penjualan properti di New York City untuk memahami tren penjualan, **faktor yang memengaruhi nilai transaksi, serta performa penjualan khususnya di Borough 1**. Analisis ini diarahkan untuk mendukung tujuan bisnis yaitu **meningkatkan penjualan properti di NYC sebesar 10% dalam 1 tahun ke depan**.
    
   Langkah-langkah yang dilakukan:  
   - **Data Preparation & Cleaning:** Mengolah lebih dari 30.000+ baris data menggunakan Excel dan SQL, termasuk pengecekan konsistensi data, penanganan missing values, standardisasi kolom, serta identifikasi dan penanganan outlier pada variabel seperti harga jual, luas bangunan, dan luas tanah. 
@@ -40,6 +40,32 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 **Tech Stack:**
     
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
+![LookerStudio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+- **[📂 Kimia Farma Big Data Analytics](https://drive.google.com/drive/folders/1KMIWnW3IBUPCViowADY3ZRf3KocXEt-s?usp=sharing)**  
+  Proyek ini berfokus pada analisis big data penjualan Kimia Farma untuk memahami **kinerja cabang, performa produk, tren penjualan, dan profitabilitas perusahaan** pada periode **2020–2023**. Tujuan utama analisis ini adalah memberikan insight yang dapat membantu pengambilan keputusan operasional dan strategis.
+   
+  Langkah-langkah yang dilakukan:  
+  - **Data Integration with SQL:** Menggabungkan 4 tabel utama (branch, transaction, product, customer) menggunakan 1 query SQL komprehensif di BigQuery untuk menghasilkan dataset siap analisis.
+  - **KPI & Insight Extraction:** Menghitung dan menganalisis 5 KPI utama yang ditampilkan di dashboard, serta mengidentifikasi pola bisnis dari data transaksi dan profit.
+  - **Dashboard Development:** Mendesain dashboard interaktif di Looker Studio yang menyajikan KPI, tren profit tahunan, performa cabang, kontribusi produk, persebaran geografis, serta perbandingan revenue antar kota dan provinsi. 
+
+  5 KPI utama yang ditampilkan dalam dashboard:
+  - **Total Nett Profit** – Ringkasan total profit bersih periode 2020–2023.
+  - **AVG Nett Profit** – Rata-rata profit per transaksi atau per entitas (sesuai perhitungan proyek).
+  - **Total Branch** – Total cabang Kimia Farma yang berkontribusi pada data penjualan.
+  - **Total Customer** – Total jumlah pelanggan yang tercatat dalam transaksi.Total Transaction – Total transaksi penjualan selama periode analisis. 
+
+  5 KPI utama yang ditampilkan dalam dashboard:
+  - Provinsi dan kota dengan nett profit tertinggi, seperti dominasi Jawa Barat.
+  - Cabang dengan rating dan transaksi terbaik, termasuk 5 cabang teratas dengan performa paling stabil.
+  - Produk dengan kontribusi profit terbesar, didominasi oleh kategori obat-obatan tertentu.
+  - Tren tahunan yang memperlihatkan fluktuasi nett profit sepanjang 2020–2023.
+  - Pemetaan geografis untuk melihat persebaran profit di seluruh Indonesia, membantu identifikasi area dengan potensi pertumbuhan.
+ 
+**Tech Stack:**
+  
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![LookerStudio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
