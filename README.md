@@ -19,6 +19,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.  
    
     **Tech Stack:**
+  
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
@@ -32,6 +33,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.  
    
     **Tech Stack:**
+    
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![LookerStudio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
