@@ -16,9 +16,9 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   - **Exploratory Data Analysis (EDA):** Mengidentifikasi menu terlaris, kategori yang berkontribusi besar pada penjualan, serta periode (hari & bulan) dengan transaksi tertinggi.  
   - **Dashboard Development:** Membuat **dashboard interaktif di Tableau** yang menyajikan visualisasi penjualan berdasarkan menu, ukuran pizza, kategori produk, serta tren revenue harian dan bulanan.  
 
-  Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.  
-   
-    **Tech Stack:**
+  Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.
+
+**Tech Stack:**
   
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -30,9 +30,9 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   - **Data Preparation & Cleaning:** Mengolah lebih dari 30.000+ baris data menggunakan Excel dan SQL, termasuk pengecekan konsistensi data, penanganan missing values, standardisasi kolom, serta identifikasi dan penanganan outlier pada variabel seperti harga jual, luas bangunan, dan luas tanah. 
   - **Exploratory Data Analysis (EDA):** Menganalisis distribusi harga dan volume penjualan, mengidentifikasi faktor yang memengaruhi nilai transaksi, dan melakukan fokus analisis pada Borough 1 setelah melakukan filter dari total 5 borough.
   - **Dashboard Development:** Mengembangkan dashboard interaktif di Looker Studio yang menampilkan visualisasi tren penjualan, revenue, tipe properti dengan performa terbaik, serta perbandingan transaksi Neigborhood dan juga Building Class Category.
-  Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.  
-   
-    **Tech Stack:**
+  Insight utama dari analisis ini adalah **identifikasi produk dengan revenue tertinggi**, **hari & bulan dengan performa penjualan terbaik**, serta **rekomendasi strategi promosi** untuk meningkatkan penjualan di periode dengan performa rendah.
+
+**Tech Stack:**
     
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
