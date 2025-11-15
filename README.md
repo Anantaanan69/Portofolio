@@ -113,10 +113,10 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   Proyek ini merupakan hasil skripsi yang berfokus pada pengembangan sistem informasi berbasis web untuk mengelola stok barang, mencatat laporan masuk & keluar, serta melakukan peramalan kebutuhan barang menggunakan metode Trend Moment.
 
 <p>
-  <img src="Images/Web_1.png" width="45%">
-  <img src="Images/Web_2.png" width="45%">
+  <img src="Images/Web_1.png" width="30%">
+  <img src="Images/Web_2.png" width="30%">
+  <img src="Images/Web_3.png" width="30%">
  </p>
- <img src="Images/Web_3.png" width="100%">
 
   Langkah-langkah yang dilakukan:  
   - **Perancangan Sistem & Database:** Mendesain struktur database (data_barang, laporan_masuk, laporan_keluar) dan alur sistem untuk memastikan pencatatan stok berjalan otomatis dan konsisten. 
