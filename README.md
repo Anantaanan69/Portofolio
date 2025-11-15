@@ -69,6 +69,26 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![LookerStudio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
+- **[📂 Finance Analysis](https://drive.google.com/file/d/1sV1BQuY1aON1DmxomZ-kdLUk0zGnuK4d/view?usp=sharing)**  
+  Proyek ini berfokus pada analisis data transaksi penjualan untuk memahami performa finansial, margin keuntungan, serta kontribusi produk dan segmen pembeli terhadap pendapatan perusahaan.
+   
+  Langkah-langkah yang dilakukan:  
+  - **Data Cleaning & Column Enhancement:** Melakukan pembersihan data dengan merapikan isi kolom seperti Country origin, Buyer segment, Product name, Qty sold, Discount %, Order date. Selain itu, menambahkan beberapa kolom baru seperti Discount Type, Manufacturing Cost, Selling Price, Total Manufacturing Cost, Total Selling Price, Revenue, dan Gross Profit menggunakan formula Excel dan diambil berdasarkan referensi sheet lain.
+  - **Formula-Based Data Processing:**
+    Menghitung kolom-kolom keuangan penting, misalnya:
+    1. Total Manufacturing Cost = Manufacturing Cost × Qty Sold
+    2. Total Selling Price = Selling Price × Qty Sold
+    3. Revenue = Total Selling Price – (Discount × Total Selling Price)
+    4. Gross Profit = Revenue – Total Manufacturing Cost
+  - **Pivot Table Modelling:** Dataset yang telah dibersihkan diolah menjadi berbagai Pivot Table untuk menganalisis penjualan berdasarkan negara asal, segmen pembeli, kategori produk, tren waktu, hingga profit margin.
+  - **Dashboard Development:** Mengembangkan Dashboard Analisis yang menampilkan performa penjualan, kontribusi produk, total keuntungan, serta tren finansial menggunakan hasil Pivot Table.
+    
+  Insight utama dari analisis ini adalah identifikasi produk dengan margin tertinggi, segmen pembeli paling menguntungkan, serta tren penjualan bulanan yang dapat membantu strategi pricing, diskon, dan perencanaan inventori.
+
+**Tech Stack:**
+  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ---
 
 ### 💻 Web Development
