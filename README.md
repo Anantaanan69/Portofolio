@@ -113,7 +113,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 ---
 
 ## 🛠️ Tech Stack
-Berikut teknologi yang biasa saya gunakan dalam project:  
+Berikut teknologi yang saya kuasai untuk pembuatan website dan analisis data:  
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
