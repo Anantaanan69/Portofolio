@@ -7,7 +7,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 
 ## 🚀 Daftar Portofolio  
 
-### 📊 Data Analytics & Data Science
+### 📊 Data Analytics 
 - **[📂 Pizza Sales Analysis](https://drive.google.com/drive/folders/1okIZYHq9AMXodHtb1GQhTRXVkNU_FAIi?usp=sharing)**  
   Proyek ini berfokus pada analisis data penjualan pizza untuk memahami **pola pembelian pelanggan, kontribusi tiap produk terhadap revenue, serta tren penjualan berdasarkan kategori dan waktu**.  
    
