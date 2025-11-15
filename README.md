@@ -11,9 +11,11 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 - **[📂 Pizza Sales Analysis](https://drive.google.com/drive/folders/1okIZYHq9AMXodHtb1GQhTRXVkNU_FAIi?usp=sharing)**  
   Proyek ini berfokus pada analisis data penjualan pizza untuk memahami **pola pembelian pelanggan, kontribusi tiap produk terhadap revenue, serta tren penjualan berdasarkan kategori dan waktu**.  
 
-  <img src="Images/Pizza_1.png">
-  <img src="Images/Pizza_2.png">
-  
+ <p>
+  <img src="Images/Pizza_1.png" width="45%">
+  <img src="Images/Pizza_2.png" width="45%">
+ </p>
+
   Langkah-langkah yang dilakukan:  
   - **Data Preparation & Cleaning:** Mengolah dataset menggunakan **Excel** untuk memastikan konsistensi data, mengatasi missing values, dan menyiapkan format analisis.  
   - **Exploratory Data Analysis (EDA):** Mengidentifikasi menu terlaris, kategori yang berkontribusi besar pada penjualan, serta periode (hari & bulan) dengan transaksi tertinggi.  
