@@ -30,7 +30,12 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 
 - **[📂 New York City Properties Sales](https://drive.google.com/drive/folders/1_rW7uSS5p66uKHOTk6njhi8sKKOGlt4Y?usp=sharing)**  
   Proyek ini berfokus pada analisis data penjualan properti di New York City untuk memahami tren penjualan, **faktor yang memengaruhi nilai transaksi, serta performa penjualan khususnya di Borough 1**. Analisis ini diarahkan untuk mendukung tujuan bisnis yaitu **meningkatkan penjualan properti di NYC sebesar 10% dalam 1 tahun ke depan**.
-   
+
+<p>
+  <img src="Images/New_York_1.png" width="45%">
+  <img src="Images/New_York_2.png" width="45%">
+ </p>
+
   Langkah-langkah yang dilakukan:  
   - **Data Preparation & Cleaning:** Mengolah lebih dari 30.000+ baris data menggunakan Excel dan SQL, termasuk pengecekan konsistensi data, penanganan missing values, standardisasi kolom, serta identifikasi dan penanganan outlier pada variabel seperti harga jual, luas bangunan, dan luas tanah. 
   - **Exploratory Data Analysis (EDA):** Menganalisis distribusi harga dan volume penjualan, mengidentifikasi faktor yang memengaruhi nilai transaksi, dan melakukan fokus analisis pada Borough 1 setelah melakukan filter dari total 5 borough.
@@ -50,7 +55,9 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 
 - **[📂 Kimia Farma Big Data Analytics](https://drive.google.com/drive/folders/1KMIWnW3IBUPCViowADY3ZRf3KocXEt-s?usp=sharing)**  
   Proyek ini berfokus pada analisis big data penjualan Kimia Farma untuk memahami **kinerja cabang, performa produk, tren penjualan, dan profitabilitas perusahaan** pada periode **2020–2023**. Tujuan utama analisis ini adalah memberikan insight yang dapat membantu pengambilan keputusan operasional dan strategis.
-   
+
+  <img src="Images/Kimia_Farma.png" width="45%">
+
   Langkah-langkah yang dilakukan:  
   - **Data Integration with SQL:** Menggabungkan 4 tabel utama (branch, transaction, product, customer) menggunakan 1 query SQL komprehensif di BigQuery untuk menghasilkan dataset siap analisis.
   - **KPI & Insight Extraction:** Menghitung dan menganalisis 5 KPI utama yang ditampilkan di dashboard, serta mengidentifikasi pola bisnis dari data transaksi dan profit.
@@ -76,7 +83,12 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 
 - **[📂 Finance Analysis](https://drive.google.com/file/d/1sV1BQuY1aON1DmxomZ-kdLUk0zGnuK4d/view?usp=sharing)**  
   Proyek ini berfokus pada analisis data transaksi penjualan untuk memahami performa finansial, margin keuntungan, serta kontribusi produk dan segmen pembeli terhadap pendapatan perusahaan.
-   
+
+<p>
+  <img src="Images/Finance_1.png" width="45%">
+  <img src="Images/Finance_2.png" width="45%">
+ </p>
+
   Langkah-langkah yang dilakukan:  
   - **Data Cleaning & Column Enhancement:** Melakukan pembersihan data dengan merapikan isi kolom seperti Country origin, Buyer segment, Product name, Qty sold, Discount %, Order date. Selain itu, menambahkan beberapa kolom baru seperti Discount Type, Manufacturing Cost, Selling Price, Total Manufacturing Cost, Total Selling Price, Revenue, dan Gross Profit menggunakan formula Excel dan diambil berdasarkan referensi sheet lain.
   - **Formula-Based Data Processing:**
@@ -99,6 +111,12 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 ### 💻 Web Development
 - **[🌐 Web Djojo Plastik](https://drive.google.com/file/d/1CBsfl8lu9EyXHAyRRGCS7hgVsoIRi-mr/view?usp=sharing)**  
   Proyek ini merupakan hasil skripsi yang berfokus pada pengembangan sistem informasi berbasis web untuk mengelola stok barang, mencatat laporan masuk & keluar, serta melakukan peramalan kebutuhan barang menggunakan metode Trend Moment.
+
+<p>
+  <img src="Images/Web_1.png" width="45%">
+  <img src="Images/Web_2.png" width="45%">
+ </p>
+ <img src="Images/Web_3.png" width="100%">
 
   Langkah-langkah yang dilakukan:  
   - **Perancangan Sistem & Database:** Mendesain struktur database (data_barang, laporan_masuk, laporan_keluar) dan alur sistem untuk memastikan pencatatan stok berjalan otomatis dan konsisten. 
