@@ -92,8 +92,16 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
 ---
 
 ### 💻 Web Development
-- **[🌐 Web Djojo Plastik](#)**  
-  Website berbasis PHP untuk manajemen stok barang dengan fitur laporan masuk, keluar, dan peramalan kebutuhan.
+- **[🌐 Web Djojo Plastik](https://drive.google.com/file/d/1CBsfl8lu9EyXHAyRRGCS7hgVsoIRi-mr/view?usp=sharing)**  
+  Proyek ini merupakan hasil skripsi yang berfokus pada pengembangan sistem informasi berbasis web untuk mengelola stok barang, mencatat laporan masuk & keluar, serta melakukan peramalan kebutuhan barang menggunakan metode Trend Moment.
+
+  Langkah-langkah yang dilakukan:  
+  - **Perancangan Sistem & Database:** Mendesain struktur database (data_barang, laporan_masuk, laporan_keluar) dan alur sistem untuk memastikan pencatatan stok berjalan otomatis dan konsisten. 
+  - **Implementasi Fitur Stok:** Membangun fitur tambah, edit, hapus, dan update stok otomatis berdasarkan transaksi masuk dan keluar, lengkap dengan validasi agar stok tidak bernilai negatif.
+  - **Modul Peramalan (Trend Moment):** Mengimplementasikan perhitungan parameter a dan b, menghitung nilai prediksi, serta menampilkan nilai MAPE sebagai evaluasi akurasi.
+  - **Halaman Forecast:** Menampilkan grafik penjualan historis dan hasil peramalan dalam bentuk tabel sehingga memudahkan pemilik toko memahami tren permintaan dan kebutuhan stok di periode berikutnya.
+
+  Insight utama dari proyek ini adalah kemampuan sistem untuk mengurangi kesalahan pencatatan stok, mempermudah pemantauan barang, serta membantu memprediksi kebutuhan barang agar proses restocking lebih efisien dan terencana.
   
   **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
