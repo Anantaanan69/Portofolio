@@ -69,12 +69,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   - **Total Branch** – Total cabang Kimia Farma yang berkontribusi pada data penjualan.
   - **Total Customer** – Total jumlah pelanggan yang tercatat dalam transaksi.Total Transaction – Total transaksi penjualan selama periode analisis. 
 
-  5 KPI utama yang ditampilkan dalam dashboard:
-  - Provinsi dan kota dengan nett profit tertinggi, seperti dominasi Jawa Barat.
-  - Cabang dengan rating dan transaksi terbaik, termasuk 5 cabang teratas dengan performa paling stabil.
-  - Produk dengan kontribusi profit terbesar, didominasi oleh kategori obat-obatan tertentu.
-  - Tren tahunan yang memperlihatkan fluktuasi nett profit sepanjang 2020–2023.
-  - Pemetaan geografis untuk melihat persebaran profit di seluruh Indonesia, membantu identifikasi area dengan potensi pertumbuhan.
+Hasil analisis menunjukkan bahwa nett profit perusahaan masih didominasi oleh wilayah tertentu dengan kontribusi terbesar berasal dari provinsi beraktivitas penjualan tinggi, sementara cabang dengan kualitas layanan yang baik dan volume transaksi besar cenderung menghasilkan profit yang lebih konsisten. Dari sisi produk, pendapatan banyak ditopang oleh beberapa produk utama dengan kontribusi terbesar terhadap total profit, dan tren nett profit tahunan yang berfluktuasi mengindikasikan adanya dinamika bisnis sekaligus peluang optimalisasi dan pengembangan di wilayah serta cabang yang kontribusinya masih belum maksimal.
  
 **Tech Stack:**
   
