@@ -95,7 +95,7 @@ Repository ini berisi kumpulan project, karya, dan eksperimen yang pernah saya b
   - **Pivot Table Modelling:** Dataset yang telah dibersihkan diolah menjadi berbagai Pivot Table untuk menganalisis penjualan berdasarkan negara asal, segmen pembeli, kategori produk, tren waktu, hingga profit margin.
   - **Dashboard Development:** Mengembangkan Dashboard Analisis yang menampilkan performa penjualan, kontribusi produk, total keuntungan, serta tren finansial menggunakan hasil Pivot Table.
     
-  Insight utama dari analisis ini adalah identifikasi produk dengan margin tertinggi, segmen pembeli paling menguntungkan, serta tren penjualan bulanan yang dapat membantu strategi pricing, diskon, dan perencanaan inventori.
+  Insight utama dari analisis ini menunjukkan segmen Government menjadi kontributor terbesar terhadap total penjualan dan revenue, sementara produk dengan volume penjualan tertinggi tidak selalu menghasilkan revenue paling besar karena perbedaan harga dan skema diskon. Dari sisi wilayah, Kanada mencatatkan penjualan tertinggi dibandingkan negara lain, dan secara umum penjualan paling besar berasal dari produk dengan tingkat diskon menengah, yang menunjukkan bahwa strategi diskon moderat lebih efektif dalam mendorong volume penjualan.
 
 **Tech Stack:**
   
